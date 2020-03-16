@@ -1,5 +1,5 @@
 if [ "$#" -ne 1 ]; then
-    echo "enter name"
+    echo "enter name after comand"
     exit 1
 fi
 
